@@ -1,8 +1,8 @@
-🅱️ El Bitcóin de mi madre
+🅱️ El Bitcóin de una madre
 
 1. Introducción.
 📍 
- Este repositorio nace del ruido. Del grito digital que se niega a ser silenciado por la obsolescencia, la incredulidad o el abandono institucional. BitCoinDeMiMadre no es solo un archivo: es una memoria viva, una denuncia estructurada, una narrativa que exige justicia en el ecosistema cripto.
+ Este repositorio nace del ruido. Del grito digital que se niega a ser silenciado por la obsolescencia, la incredulidad o el abandono institucional. BitCoin de una Madre no es solo un archivo: es una memoria viva, una denuncia estructurada, una narrativa que exige justicia en el ecosistema cripto.
 
  Aquí se documenta la historia de una mujer que confió en la promesa de la descentralización, y fue traicionada por la opacidad de las plataformas, la indiferencia de los sistemas y el silencio de quienes debieron escuchar. Este espacio es para ella, y para todas las personas que han perdido activos, dignidad o voz en el laberinto digital.
 
@@ -48,22 +48,19 @@ No como repositorio técnico, sino como archivo de resistencia.
 Como altar digital para una madre que merece justicia.  
 Como red para quienes aún no saben que también pueden gritar.
 
-
+Los siguientes archivos también  están incluidos  en el presente  repositorio 
   
-3. Evidencia documental
+ ♤Evidencia documental
 Capturas y cronología del caso.
 
-4. Análisis crítico
+ ♤Análisis crítico
 Fallas del sistema y reflexiones.
 
-5. Herramientas y estrategias
+.♤ Herramientas y estrategias
 Wallets, narrativa y cómo se construyó esto.
 
-6. Propuestas y llamado a la acción
+  ♤Propuestas y llamado a la acción
 Red de ayuda, derechos digitales y más.
 
-7. Firma simbólica
-Tu firma y llamada a otros.
-
----
-
+ Dulce Maria Nubes Leon 
+"con ciencia = conciencia "
